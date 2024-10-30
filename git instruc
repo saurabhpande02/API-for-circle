@@ -1,0 +1,7 @@
+git init
+git branch -M main
+git remote add origin https://github.com/saurabhpande02/API-for-circle.git
+git add .
+git commit -m "Add description of the changes or file added"
+git push origin main
+git push --force origin main
