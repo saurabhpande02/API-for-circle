@@ -1,5 +1,5 @@
 <?php
-
+// this is sec
 $file = 'filefordata.txt';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
